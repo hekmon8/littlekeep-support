@@ -1,6 +1,6 @@
 # 留一点 · LittleKeep 隐私政策
 
-更新日期：2026-09-14。适用版本：1.0.0，Bundle ID：`com.hekmon.littlekeep`。开发者联系：[支持页](support.md)。
+更新日期：2026-09-15。适用版本：1.0.0，Bundle ID：`com.hekmon.littlekeep`。支持与隐私联系：[huhh1998@icloud.com](mailto:huhh1998@icloud.com) · [支持页](support.md)。
 
 ## 设备上的照片与文字
 
@@ -21,6 +21,8 @@
 系统图库删除需要确认，可到 Apple“最近删除”查看恢复选项；通常保留 30 天，也可能被提前永久删除。撤回照片权限不自动清除已保存的纸页副本。提醒是可选的本地通知，可在 App 或系统设置关闭。
 
 ## 支持请求与政策更新
+
+你可以发送邮件到 [huhh1998@icloud.com](mailto:huhh1998@icloud.com) 联系开发者或提出隐私请求，无需公开提交 issue。邮件地址、正文和你主动提供的附件会用于处理请求；请仅提供必要信息，不要发送密码或付款凭据。如需删除你主动提供的支持资料，可通过同一邮箱提出请求。邮件由邮件服务处理，相关平台处理遵循其政策。
 
 如果你通过 [GitHub Issues](https://github.com/hekmon8/ios-app-support/issues) 联系开发者，提交的内容由 GitHub 托管，公开 issue 对其他人可见。请只提供解决问题所需的版本、系统和操作步骤，不要提交私人照片、备份、密码或付款凭据。你可编辑或删除自己发布的内容，也可在同一线程请求维护者处理。GitHub 自身的数据保留和平台处理见 [GitHub 隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。
 

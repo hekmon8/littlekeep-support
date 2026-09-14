@@ -8,4 +8,4 @@
 
 文档按 App 分目录维护。隐私政策以对应 App 的实际版本与功能为准。
 
-反馈入口：[GitHub Issues](https://github.com/hekmon8/ios-app-support/issues)。请勿公开上传私人照片、相册备份、密码或付款凭据。
+支持与隐私联系：[huhh1998@icloud.com](mailto:huhh1998@icloud.com)。一般问题也可使用 [GitHub Issues](https://github.com/hekmon8/ios-app-support/issues)。请勿公开上传私人照片、相册备份、密码或付款凭据。
