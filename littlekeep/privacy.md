@@ -24,6 +24,6 @@
 
 你可以发送邮件到 [huhh1998@icloud.com](mailto:huhh1998@icloud.com) 联系开发者或提出隐私请求，无需公开提交 issue。邮件地址、正文和你主动提供的附件会用于处理请求；请仅提供必要信息，不要发送密码或付款凭据。如需删除你主动提供的支持资料，可通过同一邮箱提出请求。邮件由邮件服务处理，相关平台处理遵循其政策。
 
-如果你通过 [GitHub Issues](https://github.com/hekmon8/ios-app-support/issues) 联系开发者，提交的内容由 GitHub 托管，公开 issue 对其他人可见。请只提供解决问题所需的版本、系统和操作步骤，不要提交私人照片、备份、密码或付款凭据。你可编辑或删除自己发布的内容，也可在同一线程请求维护者处理。GitHub 自身的数据保留和平台处理见 [GitHub 隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。
+如果你通过 [GitHub Issues](https://github.com/hekmon8/littlekeep-support/issues) 联系开发者，提交的内容由 GitHub 托管，公开 issue 对其他人可见。请只提供解决问题所需的版本、系统和操作步骤，不要提交私人照片、备份、密码或付款凭据。你可编辑或删除自己发布的内容，也可在同一线程请求维护者处理。GitHub 自身的数据保留和平台处理见 [GitHub 隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。
 
 当前 App 不向开发者发送分析事件。如果未来版本增加可选统计或改变数据处理，会同步更新这份政策、App 内说明和 App Store 隐私标签，并在需要时先征得你的同意。
