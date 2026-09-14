@@ -1,5 +1,7 @@
 # 留一点 · LittleKeep 隐私政策
 
+[English](privacy.en.md) · [中文首页](../README.zh-CN.md)
+
 更新日期：2026-09-15。适用版本：1.0.0，Bundle ID：`com.hekmon.littlekeep`。支持与隐私联系：[huhh1998@icloud.com](mailto:huhh1998@icloud.com) · [支持页](support.md)。
 
 ## 设备上的照片与文字

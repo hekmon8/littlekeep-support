@@ -1,5 +1,7 @@
 # 留一点 · LittleKeep 使用帮助与支持
 
+[English](support.en.md) · [中文首页](../README.zh-CN.md)
+
 留一点帮助你回看照片、确认整理操作，并把选择的照片与文字保存在本地纸页。没有订阅，也无需创建账号；正式收费方式为 App Store 一次付费下载。TestFlight 是测试分发，不代表 App Store 已上线。
 
 ## 联系开发者
@@ -18,4 +20,4 @@ Issue 是公开的，请勿上传私人相册、完整备份、密码或支付�
 - **换设备：** 在原设备导出备份，在新设备导入。导入合并纸页，不覆盖现有纸页，也不改变系统图库。
 - **购买与退款：** 正式版购买记录、重新下载和退款由 Apple 管理，参见 [Apple 退款帮助](https://support.apple.com/118223)。开发者不接收你的银行卡或付款凭据。
 
-[隐私政策](privacy.md) · [LittleKeep](../README.md)
+[隐私政策](privacy.md) · [LittleKeep](../README.zh-CN.md)
